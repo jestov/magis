@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.8",
+    "next-tinacms-json": "^0.51.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.8"
+    "react-tinacms-inline": "^0.54.0",
+    "tinacms": "^2.2.3"
   },
   "devDependencies": {
     "postcss": "^8",
